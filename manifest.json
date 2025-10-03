@@ -1,0 +1,20 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "Hoeihori desu",
+      "name" : "Horihiri",
+      "platform_locked" : false,
+      "uuid" : "dcd9d019-5a93-4aaf-8668-c7f5094f739d",
+      "version" : [ 0, 0, 23 ],
+      "min_engine_version":[1,8,0]
+   },
+   "min_engine_version" : [ 0, 0, 1, 1, 2, 5 ],
+   "modules" : [
+      {
+         "description" : "Not Used",
+         "type" : "data",
+         "uuid" : "61d67b5f-5a16-42bf-8702-2f2c28325049",
+         "version" : [ 0, 0, 8 ]
+      }
+   ]
+}
